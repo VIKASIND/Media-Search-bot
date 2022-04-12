@@ -369,4 +369,4 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 await query.message.delete()
                 
     else:
-        await query.answer("കൌതുകും ലേശം കൂടുതൽ ആണല്ലേ👀",show_alert=True)
+        await query.answer("ಇದು ಸ್ವಲ್ಪ ಹೆಚ್ಚು ಮೋಜು ಅಲ್ಲವೇ?👀",show_alert=True)
