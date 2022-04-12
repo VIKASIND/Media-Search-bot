@@ -15,7 +15,7 @@
       "inline"
     ],
     "website": "https://github.com/subinps/Media-Search-bot",
-    "repository": "https://github.com/subinps/Media-Search-bot",
+    "repository": "https://github.com/VIKASIND/Media-Search-bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
